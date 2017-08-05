@@ -26,11 +26,11 @@ msgstr "Воздух (да ты хакер!)"
 
 #: init.lua
 msgid "Simple Bed"
-msgstr "Кровать обычная"
+msgstr "Простая Кровать"
 
 #: init.lua
 msgid "Fancy Bed"
-msgstr ""
+msgstr "Роскошная Кровать"
 
 #: init.lua
 msgid "Boat"
@@ -58,15 +58,15 @@ msgstr "Ведро воды"
 
 #: init.lua
 msgid "Brake rail"
-msgstr ""
+msgstr "Тормозящие Рельсы"
 
 #: init.lua
 msgid "Cart (Sneak+Click to pick up)"
-msgstr ""
+msgstr "Тележка (Красться+Клик чтобы взять)"
 
 #: init.lua
 msgid "Powered rail"
-msgstr ""
+msgstr "Запитанные Рельсы"
 
 #: init.lua
 msgid "Rail"
@@ -74,23 +74,23 @@ msgstr "Рельсы"
 
 #: init.lua
 msgid "Acacia Bush Leaves"
-msgstr "Густые листья акации"
+msgstr "Листья Куста Акации"
 
 #: init.lua
 msgid "Acacia Bush Sapling"
-msgstr ""
+msgstr "Саженец Куста Акации"
 
 #: init.lua
 msgid "Acacia Bush Stem"
-msgstr ""
+msgstr "Ствол Куста Акации"
 
 #: init.lua
 msgid "Acacia Leaves"
-msgstr "Листья акации"
+msgstr "Листья Акации"
 
 #: init.lua
 msgid "Acacia Tree Sapling"
-msgstr "Саженец акации"
+msgstr "Саженец Акации"
 
 #: init.lua
 msgid "Acacia Tree"
@@ -98,7 +98,7 @@ msgstr "Акация"
 
 #: init.lua
 msgid "Acacia Wood Planks"
-msgstr "Доски акации"
+msgstr "Доски из Акации"
 
 #: init.lua
 msgid "Apple"
@@ -106,11 +106,11 @@ msgstr "Яблоко"
 
 #: init.lua
 msgid "Aspen Leaves"
-msgstr ""
+msgstr "Листья Осины"
 
 #: init.lua
 msgid "Aspen Tree Sapling"
-msgstr ""
+msgstr "Саженец Осины"
 
 #: init.lua
 msgid "Aspen Tree"
@@ -126,23 +126,23 @@ msgstr "Бронзовая кирка"
 
 #: init.lua
 msgid "Diamond Axe"
-msgstr "Алмазная кирка"
+msgstr "Алмазная Кирка"
 
 #: init.lua
 msgid "Mese Axe"
-msgstr "Кристальная кирка"
+msgstr "Мезейная Кирка"
 
 #: init.lua
 msgid "Steel Axe"
-msgstr "Стальная кирка"
+msgstr "Стальная Кирка"
 
 #: init.lua
 msgid "Stone Axe"
-msgstr "Каменная кирка"
+msgstr "Каменная Кирка"
 
 #: init.lua
 msgid "Wooden Axe"
-msgstr "Деревянная кирка"
+msgstr "Деревянная Кирка"
 
 #: init.lua
 msgid "Book"
@@ -150,23 +150,23 @@ msgstr "Книга"
 
 #: init.lua
 msgid "Bookshelf"
-msgstr "Книжный шкаф"
+msgstr "Книжный Шкаф"
 
 #: init.lua
 msgid "Book With Text"
-msgstr "Книга с текстом"
+msgstr "Книга с Текстом"
 
 #: init.lua
 msgid "Brick Block"
-msgstr "Кирпичный блок"
+msgstr "Кирпичный Блок"
 
 #: init.lua
 msgid "Bronze Block"
-msgstr "Блок бронзы"
+msgstr "Блок Бронзы"
 
 #: init.lua
 msgid "Bronze Ingot"
-msgstr "Бронзовый слиток"
+msgstr "Бронзовый Слиток"
 
 #: init.lua
 msgid "Bush Leaves"
@@ -186,7 +186,7 @@ msgstr "Кактус"
 
 #: init.lua
 msgid "Locked Chest"
-msgstr "Запертый сундук"
+msgstr "Запертый Сундук"
 
 #: init.lua
 msgid "Chest"
@@ -202,7 +202,7 @@ msgstr "Глина"
 
 #: init.lua
 msgid "Clay"
-msgstr "Блок глины"
+msgstr "Блок Глины"
 
 #: init.lua
 msgid "Cloud"
@@ -210,7 +210,7 @@ msgstr "Облако"
 
 #: init.lua
 msgid "Coal Block"
-msgstr "Блок угля"
+msgstr "Блок Угля"
 
 #: init.lua
 msgid "Coal Lump"
@@ -222,39 +222,39 @@ msgstr "Булыжник"
 
 #: init.lua
 msgid "Copper Block"
-msgstr "Блок меди"
+msgstr "Блок Меди"
 
 #: init.lua
 msgid "Copper Ingot"
-msgstr "Медный слиток"
+msgstr "Медный Слиток"
 
 #: init.lua
 msgid "Copper Lump"
-msgstr "Медная руда"
+msgstr "Медная Руда"
 
 #: init.lua
 msgid "Brown Coral"
-msgstr "Коричневый коралл"
+msgstr "Коричневый Коралл"
 
 #: init.lua
 msgid "Orange Coral"
-msgstr "Оранжевый коралл"
+msgstr "Оранжевый Коралл"
 
 #: init.lua
 msgid "Coral Skeleton"
-msgstr ""
+msgstr "Скелет Коралла"
 
 #: init.lua
 msgid "Desert Cobblestone"
-msgstr "Пустынный булыжник"
+msgstr "Пустынный Булыжник"
 
 #: init.lua
 msgid "Desert Sand"
-msgstr "Пустынный песок"
+msgstr "Пустынный Песок"
 
 #: init.lua
 msgid "Desert Sandstone Block"
-msgstr "Пустынный песчаник"
+msgstr "Пустынный Отшлифованный Песчаник"
 
 #: init.lua
 msgid "Desert Sandstone Brick"
@@ -262,7 +262,7 @@ msgstr ""
 
 #: init.lua
 msgid "Desert Sandstone"
-msgstr "Пустынный песчаник"
+msgstr "Пустынный Песчаник"
 
 #: init.lua
 msgid "Desert Stone Block"
@@ -274,11 +274,11 @@ msgstr ""
 
 #: init.lua
 msgid "Desert Stone"
-msgstr "Пустынный камень"
+msgstr "Пустынный Камень"
 
 #: init.lua
 msgid "Diamond Block"
-msgstr "Алмазный блок"
+msgstr "Алмазный Блок"
 
 #: init.lua
 msgid "Diamond"
@@ -290,11 +290,11 @@ msgstr "Земля"
 
 #: init.lua
 msgid "Dirt with Dry Grass"
-msgstr "Земля с мокрой травой"
+msgstr "Влажная Земля с Травой"
 
 #: init.lua
 msgid "Dirt with Grass and Footsteps"
-msgstr "Земля с травой и следами"
+msgstr "Земля с Травой и Следами"
 
 #: init.lua
 msgid "Dirt with Grass"
@@ -302,19 +302,19 @@ msgstr "Земля с травой"
 
 #: init.lua
 msgid "Dirt with Rainforest Litter"
-msgstr ""
+msgstr "Земля с Мусором"
 
 #: init.lua
 msgid "Dirt with Snow"
-msgstr "Земля с снегом"
+msgstr "Земля со Снегом"
 
 #: init.lua
 msgid "Dry Grass"
-msgstr "Мокрая трава"
+msgstr "Мокрая Трава"
 
 #: init.lua
 msgid "Dry Shrub"
-msgstr "Сухой куст"
+msgstr "Сухой Куст"
 
 #: init.lua
 msgid "Acacia Fence"
@@ -350,15 +350,15 @@ msgstr "Стекло"
 
 #: init.lua
 msgid "Gold Block"
-msgstr "Блок золота"
+msgstr "Блок Золота"
 
 #: init.lua
 msgid "Gold Ingot"
-msgstr "Золотой слиток"
+msgstr "Золотой Слиток"
 
 #: init.lua
 msgid "Gold Lump"
-msgstr "Золотая руда"
+msgstr "Золотая Руда"
 
 #: init.lua
 msgid "Grass"
@@ -374,27 +374,27 @@ msgstr "Лед"
 
 #: init.lua
 msgid "Iron Lump"
-msgstr "Железная руда"
+msgstr "Железная Руда"
 
 #: init.lua
 msgid "Jungle Grass"
-msgstr "Трава джунглей"
+msgstr Трава изДжунглей"
 
 #: init.lua
 msgid "Jungle Leaves"
-msgstr "Листья джунглей"
+msgstr "Листья Дерева Джунглей"
 
 #: init.lua
 msgid "Jungle Sapling"
-msgstr "Саженец дерева джунглей"
+msgstr "Саженец Дерева Джунглей"
 
 #: init.lua
 msgid "Jungle Tree"
-msgstr "Дерево джунглей"
+msgstr "Дерево Джунглей"
 
 #: init.lua
 msgid "Junglewood Planks"
-msgstr "Доски дерева джунглей"
+msgstr "Доски из Дерева Джунглей"
 
 #: init.lua
 msgid "Key"
@@ -402,15 +402,15 @@ msgstr "Ключ"
 
 #: init.lua
 msgid "Steel Ladder"
-msgstr "Стальная лестница"
+msgstr "Стальная Лестница"
 
 #: init.lua
 msgid "Wooden Ladder"
-msgstr "Деревянная лестница"
+msgstr "Деревянная Лестница"
 
 #: init.lua
 msgid "Flowing Lava"
-msgstr "Текущая лава"
+msgstr "Текущая Лава"
 
 #: init.lua
 msgid "Lava Source"
@@ -422,15 +422,15 @@ msgstr "Листья"
 
 #: init.lua
 msgid "Mese Crystal Fragment"
-msgstr "Фрагмент кристалла"
+msgstr "Фрагмент Кристалла Мезе"
 
 #: init.lua
 msgid "Mese Crystal"
-msgstr "Кристалл"
+msgstr "Кристалл Мезе"
 
 #: init.lua
 msgid "Mese Lamp"
-msgstr "Кристальный фонарь"
+msgstr "Мез-Кристальный Фонарь"
 
 #: init.lua
 msgid "Mese Post Light"
@@ -438,27 +438,27 @@ msgstr ""
 
 #: init.lua
 msgid "Mese Block"
-msgstr "Кристальный блок"
+msgstr "Блок Кристалла Мезе"
 
 #: init.lua
 msgid "Mossy Cobblestone"
-msgstr "Замшелый булыжник"
+msgstr "Замшелый Булыжник"
 
 #: init.lua
 msgid "Obsidian Block"
-msgstr "Блок обсидана"
+msgstr "Блок Обсидана"
 
 #: init.lua
 msgid "Obsidian Brick"
-msgstr "Обсидановый кирпич"
+msgstr "Обсидановый Кирпич"
 
 #: init.lua
 msgid "Obsidian Glass"
-msgstr "Обсидановое стекло"
+msgstr "Обсидановое Стекло"
 
 #: init.lua
 msgid "Obsidian Shard"
-msgstr "Осколок обсидана"
+msgstr "Осколок Обсидана"
 
 #: init.lua
 msgid "Obsidian"
@@ -474,35 +474,35 @@ msgstr "Папирус"
 
 #: init.lua
 msgid "Bronze Pickaxe"
-msgstr "Бронзовая кирка"
+msgstr "Бронзовая Кирка"
 
 #: init.lua
 msgid "Diamond Pickaxe"
-msgstr "Алмазная кирка"
+msgstr "Алмазная Кирка"
 
 #: init.lua
 msgid "Mese Pickaxe"
-msgstr "Кристальная кирка"
+msgstr "Мезейная Кирка"
 
 #: init.lua
 msgid "Steel Pickaxe"
-msgstr "Стальная кирка"
+msgstr "Стальная Кирка"
 
 #: init.lua
 msgid "Stone Pickaxe"
-msgstr "Каменная кирка"
+msgstr "Каменная Кирка"
 
 #: init.lua
 msgid "Wooden Pickaxe"
-msgstr "Деревянная кирка"
+msgstr "Деревянная Кирка"
 
 #: init.lua
 msgid "Pine Needles"
-msgstr "Сосновая хвоя"
+msgstr "Сосновая Хвоя"
 
 #: init.lua
 msgid "Pine Sapling"
-msgstr "Росток сосны"
+msgstr "Саженец Сосны"
 
 #: init.lua
 msgid "Pine Tree"
@@ -510,15 +510,15 @@ msgstr "Сосна"
 
 #: init.lua
 msgid "Pine Wood Planks"
-msgstr "Сосновые доски"
+msgstr "Сосновые Доски"
 
 #: init.lua
 msgid "Flowing River Water"
-msgstr "Текущая речная вода"
+msgstr "Текущая Речная Вода"
 
 #: init.lua
 msgid "River Water Source"
-msgstr "Источник речной воды"
+msgstr "Источник Речной Воды"
 
 #: init.lua
 msgid "Sand"
@@ -526,11 +526,11 @@ msgstr "Песок"
 
 #: init.lua
 msgid "Sandstone Block"
-msgstr "Блок песчаника"
+msgstr "Блок Песчаника"
 
 #: init.lua
 msgid "Sandstone Brick"
-msgstr "Кирпичи из песчаника"
+msgstr "Кирпичи из Песчаника"
 
 #: init.lua
 msgid "Sandstone"
@@ -538,51 +538,51 @@ msgstr "Песчаник"
 
 #: init.lua
 msgid "Sapling"
-msgstr "Росток"
+msgstr "Саженец"
 
 #: init.lua
 msgid "Bronze Shovel"
-msgstr "Бронзовая лопата"
+msgstr "Бронзовая Лопата"
 
 #: init.lua
 msgid "Diamond Shovel"
-msgstr "Алмазная лопата"
+msgstr "Алмазная Лопата"
 
 #: init.lua
 msgid "Mese Shovel"
-msgstr "Кристальная лопата"
+msgstr "Мезейная Лопата"
 
 #: init.lua
 msgid "Steel Shovel"
-msgstr "Стальная лопата"
+msgstr "Стальная Лопата"
 
 #: init.lua
 msgid "Stone Shovel"
-msgstr "Каменная лопата"
+msgstr "Каменная Лопата"
 
 #: init.lua
 msgid "Wooden Shovel"
-msgstr "Деревянная лопата"
+msgstr "Деревянная Лопата"
 
 #: init.lua
 msgid "Steel Sign"
-msgstr "Стальная табличка"
+msgstr "Стальная Табличка"
 
 #: init.lua
 msgid "Wooden Sign"
-msgstr "Деревянная табличка"
+msgstr "Деревянная Табличка"
 
 #: init.lua
 msgid "Silver Sand"
-msgstr "Серебристый песок"
+msgstr "Серебристый Песок"
 
 #: init.lua
 msgid "Silver Sandstone Block"
-msgstr "Блок серебристого песка"
+msgstr "Серебристый Отшлифованный Песчанник"
 
 #: init.lua
 msgid "Silver Sandstone Brick"
-msgstr "Кирпичи серебристого песчаника"
+msgstr "Кирпичи из Серебристого Песчаника"
 
 #: init.lua
 msgid "Silver Sandstone"
@@ -590,11 +590,11 @@ msgstr "Серебристый песчаник"
 
 #: init.lua
 msgid "Skeleton Key"
-msgstr "Ключ скелетов"
+msgstr "Костяной Ключ"
 
 #: init.lua
 msgid "Snow Block"
-msgstr "Блок снега"
+msgstr "Блок Снега"
 
 #: init.lua
 msgid "Snow"
@@ -602,11 +602,11 @@ msgstr "Снег"
 
 #: init.lua
 msgid "Steel Block"
-msgstr "Блок стали"
+msgstr "Блок Стали"
 
 #: init.lua
 msgid "Steel Ingot"
-msgstr "Стальной слиток"
+msgstr "Стальной Слиток"
 
 #: init.lua
 msgid "Stick"
